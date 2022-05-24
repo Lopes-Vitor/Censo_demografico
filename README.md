@@ -24,11 +24,11 @@
   - contador para ter o percentual de (outros) entre 18 e 35 anos
   - **Fim se**
   - **Fim se**
-         - **Fim se**
-        - **Fim se**
-       - **Fim se**
-      - **Fim se**
-- **Fim Enquanto**
+  - **Fim se**
+  - **Fim se**
+  - **Fim se**
+  - **Fim se**
+  - **Fim Enquanto**
 - **FIM**
 
 
